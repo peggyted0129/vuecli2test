@@ -1,6 +1,7 @@
 # Emily 甜點電商  [Demo](https://peggyted0129.github.io/vuecli2test/#/) 
 
 > 這是一份以 Vue.js 為框架的前端練習作品，無任何商業用途
+( 只有後台完成 )
 
 Skills | 使用技術
 -----------
